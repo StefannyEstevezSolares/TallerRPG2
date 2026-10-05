@@ -103,10 +103,10 @@ Por ejemplo:
 Personaje p1 = new Guerrero();
 Personaje p2 = new Mago();
 
-###Override
+### Override
 Se utilizó @Override en los métodos que las clases hijas sobrescriben de Personaje.
 Esto permite que Guerrero, Mago y Arquero tengan diferentes formas de atacar, usar habilidades y mostrar su información.
 
-##Conclusión
+## Conclusión
 
 Considero que la forma en que se aplicaron los pilares de la programación orientada a objetos nos ayuda a trabajar un proyecto en capas, de manera ordenada, con una lógica pura porque, como dijo el ingeniero, es como se manejarían los objetos en la vida real.
